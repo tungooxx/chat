@@ -1,2 +1,2 @@
-# chat
+# simple chatbot
 Streamlit run
